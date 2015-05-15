@@ -5,10 +5,6 @@
  */
 package temperatura;
 
-/**
- *
- * @author Osvaldo
- */
 public class TemperaturaWebService {
 
     public static String getWeather(java.lang.String cityName, java.lang.String countryName) {

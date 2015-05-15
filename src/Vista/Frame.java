@@ -10,10 +10,6 @@ import java.util.ArrayList;
 import java.util.List;
 import temperatura.TemperaturaWebService;
 
-/**
- *
- * @author Osvaldo
- */
 public class Frame extends javax.swing.JFrame {
 
     /**
